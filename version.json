@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.2.0",
+  "latest_version": "1.3.0",
   "minimum_version": "1.2.0",
   "force_update": false,
   "disabled": false,
-  "message": "최신 버전입니다.",
-"download_url": "https://github.com/sshan2001/ulsan-ais-alert-update/releases"
+  "message": "v1.3.0: M1~M7/E1~E3 묘박지 투묘·정박 감지 알림이 추가되었습니다.",
+  "download_url": "https://github.com/sshan2001/ulsan-ais-alert-update/releases"
 }
